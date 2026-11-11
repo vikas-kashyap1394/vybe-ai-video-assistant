@@ -1,0 +1,13 @@
+openai-whisper
+torch
+torchaudio
+torchvision
+streamlit
+yt-dlp
+chromadb
+sentence-transformers==3.4.1
+transformers==4.57.3
+accelerate
+python-dotenv
+fastapi
+uvicorn
